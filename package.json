@@ -1,0 +1,18 @@
+{
+  "name": "wheel-discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "gif-encoder-2": "^1.0.5",
+    "gifencoder": "^2.0.1",
+    "gifken": "^3.0.4",
+    "open": "^9.1.0"
+  }
+}

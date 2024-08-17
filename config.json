@@ -1,0 +1,7 @@
+{
+  "token": "bot_token",
+  "startTime": 30,
+  "chooseTimeout": 30,
+  "timeBetweenRounds": 10,
+  "allowedRoleId": "role_id"
+}
