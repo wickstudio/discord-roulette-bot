@@ -1,7 +1,10 @@
 {
-  "token": "bot_token",
-  "startTime": 30,
+  "token": "TOKEN",
+  "minPlayers": 4,
+  "maxPlayers": 40,
+  "startTime": 50,
   "chooseTimeout": 30,
   "timeBetweenRounds": 10,
-  "allowedRoleId": "role_id"
+  "allowedRoleId": "ID",
+  "prefix": "-"
 }
